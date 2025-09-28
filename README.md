@@ -94,7 +94,7 @@ REFERENCES
 >
 >https://geekflare.com
 >
->https://www.oracle.com/education/guided-learning
+>https://www.databasestar.com/plsql-tutorial
 >
 >https://youtu.be/evktGJrgORA?list=PLb1qVSx1k1Vr0v4wVyvT3GEuA0J0M4xBm
 >
