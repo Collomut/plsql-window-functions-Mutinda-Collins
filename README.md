@@ -89,13 +89,21 @@ Prescriptive analysis
 
 REFERENCES
 >https://www.geeksforgeeks.org
+>
 >https://www.sqltutorial.org
+>
 >https://geekflare.com
+>
 >https://www.oracle.com/education/guided-learning
+>
 >https://youtu.be/evktGJrgORA?list=PLb1qVSx1k1Vr0v4wVyvT3GEuA0J0M4xBm
+>
 >https://youtu.be/J5wjIf4gdq4
+>
 >https://www.datacamp.com/cheat-sheet/sql-window-functions-cheat-sheet
+>
 >https://www.freecodecamp.org/news/window-functions-in-sql
+>
 >https://medium.com/@BradleyOThompson/advanced-sql-window-functions-a5ba3ed15868
 >
 All sources were cited. Implementations and analysis represent original work. No AI-generated content was copied without attribution or adaptation.
