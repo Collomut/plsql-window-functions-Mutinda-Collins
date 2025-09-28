@@ -106,5 +106,7 @@ REFERENCES
 >
 >https://medium.com/@BradleyOThompson/advanced-sql-window-functions-a5ba3ed15868
 >
+>https://www.tutorialspoint.com/plsql/index.htm
+>
 All sources were cited. Implementations and analysis represent original work. No AI-generated content was copied without attribution or adaptation.
  
